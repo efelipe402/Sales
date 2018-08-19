@@ -1,0 +1,12 @@
+C:\Users\felipe\Documents\Projects\Sales\Sales\Sales\bin\Debug\netstandard2.0\Sales.deps.json
+C:\Users\felipe\Documents\Projects\Sales\Sales\Sales\bin\Debug\netstandard2.0\Sales.dll
+C:\Users\felipe\Documents\Projects\Sales\Sales\Sales\bin\Debug\netstandard2.0\Sales.pdb
+C:\Users\felipe\Documents\Projects\Sales\Sales\Sales\obj\Debug\netstandard2.0\Sales.csprojAssemblyReference.cache
+C:\Users\felipe\Documents\Projects\Sales\Sales\Sales\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\felipe\Documents\Projects\Sales\Sales\Sales\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\felipe\Documents\Projects\Sales\Sales\Sales\obj\Debug\netstandard2.0\Sales.csproj.CoreCompileInputs.cache
+C:\Users\felipe\Documents\Projects\Sales\Sales\Sales\obj\Debug\netstandard2.0\Sales.AssemblyInfoInputs.cache
+C:\Users\felipe\Documents\Projects\Sales\Sales\Sales\obj\Debug\netstandard2.0\Sales.AssemblyInfo.cs
+C:\Users\felipe\Documents\Projects\Sales\Sales\Sales\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\felipe\Documents\Projects\Sales\Sales\Sales\obj\Debug\netstandard2.0\Sales.dll
+C:\Users\felipe\Documents\Projects\Sales\Sales\Sales\obj\Debug\netstandard2.0\Sales.pdb
